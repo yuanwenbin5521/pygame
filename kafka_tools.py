@@ -38,3 +38,6 @@ b = tk.Button(window,
     command=send_msg)
 b.pack()
 window.mainloop()
+
+
+{"BizConv":"Following","BusinessCode":3001,"CheckStatus":"内部复核通过","CounterpartyID":"收益凭证","DaycountConv":"1","DivAdjust":1,"Edge":"JSON:[\"\"]","EventID":"1545717616191_testxj002","EventType":135001,"ExpiryDate":"2018/12/25 00:00:00","FixingRecord":0,"MakerID":"cubetest31","MarginNet":0,"MsgType":"240300","OverrideObsDate":"JSON:[\"2018/12/25\"]","PerformanceType":"Single","Position":10.00000000,"ProductType":119006,"QuantoFlag":"Vanilla","ReportingNotional":0E-8,"SalesID":"JSON:[\"\"]","SeqNo":1545717616191,"SettleCcy":"CNY","SettlementDate":"2018/12/25 00:00:00","SettlementType":"Cash","Strategy":"2323","StrikeDate":"2018/12/25 00:00:00","SubBook":"12341","TemplateType":"Autocall","TradeCcy":"CNY","TradeDate":"2018/12/25 00:00:00","TradeID":"testxj002","TradePrice":0E-8,"TradeType":"BC","Underlying":[{"ExchangeCode":"SH","InitialFixing":2.0000000000000000,"OverrideFixing":3.00000000,"Underlying":"600000.SH","UnderlyingCcy":"CNY","Weight":1.00000000}],"optionpremiumvalid":0}
